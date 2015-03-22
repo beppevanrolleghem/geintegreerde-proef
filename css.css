@@ -1,0 +1,17 @@
+p {font-family:'Segoe UI';
+ font-size:medium;}
+h1 {font-family:'Segoe UI';
+ font-size:xx-large;}
+h2 {font-family: 'Segoe UI';
+ font-size: x-large;}
+h3 {font-family: 'Segoe UI';
+ font-size:large;}
+.container {width:900px;
+      margin:1 auto 0 auto;
+      padding:5px;
+      border:5px solid #cccccc;
+      background:#ffffff; }
+img {width: 150px;
+     height:150px;
+
+}
